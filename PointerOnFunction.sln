@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PointerOnFunction", "PointerOnFunction\PointerOnFunction.vcxproj", "{399DF41D-2F39-4AC7-952F-226489D57CAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{399DF41D-2F39-4AC7-952F-226489D57CAC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{399DF41D-2F39-4AC7-952F-226489D57CAC}.Debug|Win32.Build.0 = Debug|Win32
+		{399DF41D-2F39-4AC7-952F-226489D57CAC}.Release|Win32.ActiveCfg = Release|Win32
+		{399DF41D-2F39-4AC7-952F-226489D57CAC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC31CC95-2A02-47FA-B4BD-F1E4262EE924}
+	EndGlobalSection
+EndGlobal
